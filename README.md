@@ -1,3 +1,19 @@
+# OUTDATED
+## Текущий биндер устаревший и не рекомендуется к пользованию
+### Актуальная новая версия находится тут: https://github.com/RudolfRaspe/AdminBinderGta5RP
+### |
+### |
+### |
+### |
+### |
+### |
+### |
+### |
+### |
+### |
+### |
+### |
+### |
 # Admin binder for GTA 5 RP | v1.0.7.0 [Что нового?](https://github.com/RudolfRaspe/Admin-binder-for-GTA-5-RP/blob/main/CHANGELOGS.md)
 Помощник для администрации серверов проекта GTA 5 RP
 
